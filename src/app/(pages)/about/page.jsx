@@ -79,7 +79,7 @@ const AboutPage = () => {
             Contact Us
           </a>
         </motion.div>
-      </section>
+      </section> 
     </main>
   );
 };
